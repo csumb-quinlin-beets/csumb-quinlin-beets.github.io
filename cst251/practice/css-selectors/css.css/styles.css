@@ -1,0 +1,37 @@
+main span {
+        color:darkred;
+        background-color: yellow;
+      }
+
+nav ul li span 
+{
+        color:blue;
+}
+
+#degree-program-cd {
+
+        border-top-left-radius: 50 px;
+        border-top-right-radius: 50 px;
+}
+
+#degreeProgramCS {
+        border-bottom-left-radius: 50 px;
+        border-bottom-right-radius: 50 px;
+}
+
+img {
+        max-width: 100%;
+        height: auto /*responsive images*/ ;
+}
+#image-2
+{
+    border-radius: 50px; 
+    width: 50%;
+    height: auto;
+    /* or whatever insert thing here */
+}
+
+.minorImage {
+        border: 10 px solid green;
+        padding: 10 px;
+}

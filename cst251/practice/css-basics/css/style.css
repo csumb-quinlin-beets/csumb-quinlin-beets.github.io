@@ -1,0 +1,32 @@
+body {
+    background-color:yellow;
+}
+
+h1 {
+    background-color:blue;
+    border:7px double red;
+    color:white;
+    text-align:center;
+    padding: 25px;
+    border-radius: 20px;
+    width: 50%;
+    margin: 0 auto;
+    font-size:10vw;
+}
+
+img {
+    border: 7px solid blue;
+    border-radius: 25px;
+    width: 50%;
+    height: auto;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1551866442-64e75e911c23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto);
+    background-size: cover;
+}
+
+div {
+    background-color: rgba(255, 255, 255, .7);
+    padding: 25px;
+}

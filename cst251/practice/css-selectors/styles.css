@@ -1,0 +1,9 @@
+main span {
+        color:darkred;
+        background-color: yellow;
+      }
+
+nav ul li span 
+{
+        color:blue;
+}
