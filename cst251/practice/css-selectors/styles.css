@@ -7,3 +7,11 @@ nav ul li span
 {
         color:blue;
 }
+
+#image-2
+{
+    border-radius: 50px; 
+    width: 50%;
+    height: auto;
+    /* or whatever insert thing here */
+}
