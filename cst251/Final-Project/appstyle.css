@@ -1,0 +1,92 @@
+html {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+appstyle.css
+
+html
+  height: 100%;
+  width: 100%
+}
+h2{
+  margin: 0 auto;
+  text-align:center;
+}
+.pop{
+
+  background-color:  rgba(0,48,87,1);
+  color:white;
+  text-align: center;
+  margin: 0 auto;
+  width:30%;
+  font-size: 2vw;
+  border-radius: 20px;
+  padding:10px;
+  border-width: 4px;
+}
+
+
+
+.pop img{
+  width: 200px;
+  height: 200px;
+}
+.sub{
+  font-size: 15px;
+}
+
+
+
+
+
+footer {
+ 
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
+  font-family: "Monaco", monospace;
+  background-color: rgba(0,48,87,1)
+  
+}
+
+
+header{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: xx-large;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: "Monaco", monospace;
+  margin-bottom: 0;
+  color: white; 
+  background-color: rgba(0,48,87,1)
+
+}
+
+
+#navbar{
+   background-color: rgba(174,186,201,1)
+}
+

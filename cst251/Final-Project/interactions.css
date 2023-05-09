@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#interactions {
+  text-align: center;
+  padding: 50px;
+}
+
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+img {
+  border: 2px solid;
+}
+
+header{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: xx-large;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
+  margin-bottom: 0;
+  color: white; 
+  background-color: rgba(0,48,87,1)
+
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
+  font-family: "Monaco", monospace;
+  background-color: rgba(0,48,87,1)
+}
+
+#navbar{
+   background-color: rgba(174,186,201,1)
+}

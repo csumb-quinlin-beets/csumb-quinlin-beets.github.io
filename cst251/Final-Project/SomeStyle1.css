@@ -1,0 +1,44 @@
+/* Probably get some extra padding on the list items*/
+.tip-bar
+{
+    position: absolute;
+    max-width: 150px;
+    top: 200px;
+    left: 0px;
+    /* width: 250px; */
+    height: 100%;
+}
+li
+{
+    list-style: none;
+    padding: 5px;
+}
+button
+{
+    background-color: rgba(0, 0, 255, 0);
+    border: 0px;  
+    width: 100%; 
+}
+button:hover
+{
+    font-size: large;
+}
+
+#Textbox
+{
+    position: absolute;
+    margin-left: 200px;
+    padding: 20px;
+    margin-bottom: 110px;
+    width: 70%;
+}
+
+.ALLOFME
+{
+  flex: 1;
+}
+
+footer
+{
+  margin-top: auto;
+}
