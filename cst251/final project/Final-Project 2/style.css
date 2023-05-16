@@ -1,0 +1,71 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+header{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: xx-large;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: "Monaco", monospace;
+  margin-bottom: 0;
+  color: white; 
+  background-color: rgba(0,48,87,1)
+
+}
+
+
+#navbar{
+   background-color: rgba(174,186,201,1)
+}
+
+/* The hero image */
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/monteinmonterey.jpg");
+
+  /* Set a specific height */
+  height: 100vh;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+body
+{
+  display:flex;
+  flex-direction: column;
+}
+footer {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
+  font-family: "Monaco", monospace;
+  background-color: rgba(0,48,87,1);
+  margin-top: auto;
+  width: 100%;
+}
+
+button{
+  border-radius:10px;
+}

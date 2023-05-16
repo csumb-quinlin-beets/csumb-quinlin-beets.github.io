@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: xx-large;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: "Monaco", monospace;
+  margin-bottom: 0;
+  color: white; 
+  background-color: rgba(0,48,87,1)
+
+}
+
+#navbar{
+   background-color: rgba(174,186,201,1)
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
+  font-family: "Monaco", monospace;
+  background-color: rgba(0,48,87,1);
+  bottom: 0;
+}
+
+img{
+  height:200px;
+  width: 200px;
+  border-radius:50%;
+  border:10px inset rgba(0,48,87,1);
+}
+
+h1{
+  font-size:300%;
+  text-align:center;
+}
+
+h2{
+   font-size:xx-large;
+}
+
+h3{
+   font-size:xx-large;
+}
+
+h4{
+   font-size:xx-large;
+}
+
+h5{
+   font-size:xx-large;
+}
+
+#contactbox{
+  padding:50px;
+}
+
